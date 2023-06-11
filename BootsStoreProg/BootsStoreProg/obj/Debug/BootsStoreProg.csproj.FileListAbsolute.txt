@@ -1,0 +1,12 @@
+C:\Users\kab206_8\Desktop\BurlachenkoEx\BootsStoreProg\BootsStoreProg\bin\Debug\BootsStoreProg.exe.config
+C:\Users\kab206_8\Desktop\BurlachenkoEx\BootsStoreProg\BootsStoreProg\bin\Debug\BootsStoreProg.exe
+C:\Users\kab206_8\Desktop\BurlachenkoEx\BootsStoreProg\BootsStoreProg\bin\Debug\BootsStoreProg.pdb
+C:\Users\kab206_8\Desktop\BurlachenkoEx\BootsStoreProg\BootsStoreProg\obj\Debug\BootsStoreProg.csproj.AssemblyReference.cache
+C:\Users\kab206_8\Desktop\BurlachenkoEx\BootsStoreProg\BootsStoreProg\obj\Debug\BootsStoreProg.csproj.SuggestedBindingRedirects.cache
+C:\Users\kab206_8\Desktop\BurlachenkoEx\BootsStoreProg\BootsStoreProg\obj\Debug\BootsStoreProg.Form1.resources
+C:\Users\kab206_8\Desktop\BurlachenkoEx\BootsStoreProg\BootsStoreProg\obj\Debug\BootsStoreProg.Properties.Resources.resources
+C:\Users\kab206_8\Desktop\BurlachenkoEx\BootsStoreProg\BootsStoreProg\obj\Debug\BootsStoreProg.csproj.GenerateResource.cache
+C:\Users\kab206_8\Desktop\BurlachenkoEx\BootsStoreProg\BootsStoreProg\obj\Debug\BootsStoreProg.csproj.CoreCompileInputs.cache
+C:\Users\kab206_8\Desktop\BurlachenkoEx\BootsStoreProg\BootsStoreProg\obj\Debug\BootsStoreProg.exe
+C:\Users\kab206_8\Desktop\BurlachenkoEx\BootsStoreProg\BootsStoreProg\obj\Debug\BootsStoreProg.pdb
+C:\Users\kab206_8\Desktop\BurlachenkoEx\BootsStoreProg\BootsStoreProg\obj\Debug\BootsStoreProg.Form2.resources
